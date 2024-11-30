@@ -1,0 +1,64 @@
+body{
+    margin: 0px;
+    height: 100vh;
+    width: 100vw;
+    padding: 0px;
+    background-image: url("img/DALLE2024-11-2819.43.15-Astunning3Ddigitalrenderingofagodmuseuminterior.Themuseumfeaturesstatuesofancientgodsplacedonelegantpedestalswithgoldeninscript-ezgif.com-webp-to-jpg-converter.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+header{
+    height: 20vh;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+main{
+    height: 60vh;
+    width: 100vw;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+h1{
+    text-align: center;
+    font-size: 7vmin;
+    padding-top: 56vh;
+    color: rgb(104, 60, 31);
+}
+span{
+    color: rgb(104, 60, 31);
+}
+footer{
+    height: 15vh;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+#div1 a{
+    text-decoration: none;
+    color: aliceblue;
+    padding-right: 7vw;
+    font-size: 4vmin;
+    transition: 0.7s;
+}
+#div1 a:hover{
+    color: rgb(190, 158, 135);
+}
+#div11 a:hover{
+    color: rgb(179, 140, 114);
+}
+#div11 a{
+    text-decoration: none;
+    color: aliceblue;
+    padding-left: 7vw;
+    font-size: 4vmin;
+    transition: 0.7s;
+}
+.img2{
+    padding-left: 65vw;
+}
+.img2 a{
+    padding-right: 6px;
+}
